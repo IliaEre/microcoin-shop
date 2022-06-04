@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.ere.pgk
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [ annotation-api, app-name, cache-caffeine, gradle, hibernate-validator, http-client, jackson-databind, jdbc-hikari, kotest, kotlin, kotlin-application, kotlin-build, kotlin-extension-functions, liquibase, logback, micronaut-build, netty-server, openapi, postgres, reactor, reactor-http-client, readme, shade, testcontainers, vertx-pg-client, yaml ]
